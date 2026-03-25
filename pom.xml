@@ -54,6 +54,11 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
+            <groupId>io.quarkiverse.web-bundler</groupId>
+            <artifactId>quarkus-web-bundler</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-smallrye-openapi</artifactId>
         </dependency>
